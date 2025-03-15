@@ -1,36 +1,81 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: TinkerHost # Your GitHub organization or username, where this repository lives
+repo: upptime-free-hosting-central-servers # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: QFW1
+    url: $QFW1
+    port: $PORT
     check: "tcp-ping"
-    ipv6: true
+  - name: QFW2
+    url: $QFW2
+    port: $PORT
+    check: "tcp-ping"
+  - name: QFW3
+    url: $QFW3
+    port: $PORT
+    check: "tcp-ping"
+  - name: QFW4
+    url: $QFW4
+    port: $PORT
+    check: "tcp-ping"
+  - name: QF5
+    url: $QF5
+    port: $PORT
+    check: "tcp-ping"
+  - name: QFW6
+    url: $QFW6
+    port: $PORT
+    check: "tcp-ping"
+  - name: PM1
+    url: $PM1
+    port: $PORT
+    check: "tcp-ping"
+  - name: PM2
+    url: $PM2
+    port: $PORT
+    check: "tcp-ping"
+  - name: PM4
+    url: $PM4
+    port: $PORT
+    check: "tcp-ping"
+  - name: FP5
+    url: $FP5
+    port: $PORT
+    check: "tcp-ping"
+  - name: FP6
+    url: $FP6
+    port: $PORT
+    check: "tcp-ping"
+  - name: FP7
+    url: $FP7
+    port: $PORT
+    check: "tcp-ping"
+  - name: FP8
+    url: $FP8
+    port: $PORT
+    check: "tcp-ping"
+  - name: FW33
+    url: $FW33
+    port: $PORT
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: freehostingnodeuptime.tinkerhost.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://tinkerhost.net/images/tinkerhost-512-09.svg
+  name: TinkerHost Free Hosting Node Uptime Tracker
+  introTitle: "TinkerHost Free Server Node Uptime"
+  introMessage: Uptime center for TinkerHost free hosting nodes, powered by Upptime
   navbar:
+    - title: Home
+      href: https://tinkerhost.net/?ref=free-hosting-node-uptime
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Community Forum
+      href: https://community.tinkerhost.net/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
