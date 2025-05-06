@@ -1,7 +1,7 @@
 url: $FP6
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-06T10:44:36.081Z
+status: up
+code: 200
+responseTime: 140
+lastUpdated: 2025-05-06T10:53:18.644Z
 startTime: 2025-03-15T17:18:33.606Z
 generator: Upptime <https://github.com/upptime/upptime>
