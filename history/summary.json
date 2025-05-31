@@ -166,9 +166,9 @@
     "url": "$FP5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fp-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 90,
     "timeMonth": 104,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "FP6",
