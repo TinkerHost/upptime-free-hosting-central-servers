@@ -205,9 +205,9 @@
     "url": "$FP7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fp-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
@@ -217,6 +217,7 @@
     "timeMonth": 111,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-08-14": 56
     }
   },
