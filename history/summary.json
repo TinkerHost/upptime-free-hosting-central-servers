@@ -168,9 +168,9 @@
     "slug": "fp-5",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 109,
     "timeDay": 127,
@@ -178,7 +178,6 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-10-21": 10,
       "2025-06-17": 39,
       "2025-05-31": 51
     }
@@ -190,18 +189,16 @@
     "slug": "fp-6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 127,
     "timeWeek": 104,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2025-10-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FP7",
@@ -210,9 +207,9 @@
     "slug": "fp-7",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 109,
     "timeDay": 129,
@@ -220,7 +217,6 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-10-21": 7,
       "2025-08-14": 56
     }
   },
@@ -231,18 +227,16 @@
     "slug": "fp-8",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 125,
     "timeWeek": 103,
     "timeMonth": 109,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2025-10-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FW33",
