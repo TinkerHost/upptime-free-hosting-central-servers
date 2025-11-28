@@ -76,19 +76,19 @@
     "url": "$QF5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qf-5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 108,
-    "timeWeek": 124,
-    "timeMonth": 112,
+    "timeDay": 96,
+    "timeWeek": 119,
+    "timeMonth": 111,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-11-28": 1
+      "2025-11-28": 22
     }
   },
   {
